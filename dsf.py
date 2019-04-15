@@ -1,6 +1,12 @@
-# Implementation of disjoint set forest 
-# Programmed by Olac Fuentes
-# Last modified March 28, 2019
+'''
+Created on Thu April 11 15:16:21 2019
+CS 2302 - Andres Silva
+> Teacher: Olac Fuentes
+> TAs: Anindita Nath  & Maliheh Zargaran
+> Lab #6
+> The purpose of this lab is to compare efficiency of DSF with path compression and union by size.
+> LAST MODIFIED: APRIL 14th, 2019
+'''
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import interpolate 
